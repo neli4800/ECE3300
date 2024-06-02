@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jan 30 11:56:06 2022
+# Process ID: 29380
+# Current directory: C:/Users/neli4/OneDrive/Desktop/ECE3000sp22/lab1sp22/lab1sp22.runs/synth_1
+# Command line: vivado.exe -log decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder.tcl
+# Log file: C:/Users/neli4/OneDrive/Desktop/ECE3000sp22/lab1sp22/lab1sp22.runs/synth_1/decoder.vds
+# Journal file: C:/Users/neli4/OneDrive/Desktop/ECE3000sp22/lab1sp22/lab1sp22.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source decoder.tcl -notrace
